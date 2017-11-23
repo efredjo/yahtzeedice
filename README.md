@@ -1,2 +1,2 @@
 # yahtzeedice
-C++ YahtzeeDice
+YahtzeeDice in basic C
